@@ -1,5 +1,6 @@
 # BoardNet: Board Examination Communication Network
 
+<<<<<<< HEAD
 A Cisco Packet Tracer networking project that models communication between six HSC education boards in Bangladesh: Dhaka (DHK), Chattogram (CTG), Rajshahi (RAJ), Sylhet (SYL), Barishal (BAR), and Khulna (KHU).
 
 > **Project type:** Computer Networks / Cisco Packet Tracer  
@@ -88,3 +89,29 @@ Only claim tests that you have actually run in Packet Tracer.
 ## Notes
 
 This repository organizes the supplied academic documentation. It does not claim that the Packet Tracer simulation has been independently executed or re-tested by the repository generator. Review and validate the topology and configurations before presenting it as a completed working simulation.
+=======
+## Project Overview
+BoardNet is a Cisco Packet Tracer networking project designed to connect six education board offices through a reliable and scalable network.
+
+## Network Sites
+- Dhaka (DHK)
+- Chattogram (CTG)
+- Rajshahi (RAJ)
+- Sylhet (SYL)
+- Barishal (BAR)
+- Khulna (KHU)
+
+## Technologies Used
+- Cisco Packet Tracer
+- IPv4 addressing and VLSM
+- RIPv2 and static routing
+- DHCP and DNS
+- Web and email services
+- Network redundancy and failover
+
+## Project Documentation
+The project report, project brief, and additional network configuration files will be organized in this repository.
+
+## Project Status
+Academic networking project.
+>>>>>>> 34e960bdce9cacb83784adf19752fbc24b1d4ab7
