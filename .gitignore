@@ -1,0 +1,14 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Temporary exports and backups
+*.tmp
+*.bak
+*.old
